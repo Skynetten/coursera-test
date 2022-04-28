@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: lightgray;
+    border : 2px solid black;
+    min-height: 80px!important;
+    padding: 0!important;
+}
+ 
+.navbar-brand{
+    padding-left: 20px;
+}
+
+.nav-item{
+    border : 2px solid black;
+}
+
+.navbar-nav{
+    padding-top: 20px;
+}
+
+#main-content{
+    background-color: rgb(230, 244, 248);
+    
+}
